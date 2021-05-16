@@ -4,3 +4,7 @@
 
 # IDE files
 .idea
+
+# CMakeFiles
+CMakeFiles
+cmake-build-debug
