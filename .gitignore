@@ -8,3 +8,9 @@
 # CMakeFiles
 CMakeFiles
 cmake-build-debug
+
+# Archives
+*.zip
+*.7z
+*.rar
+*.tar*
